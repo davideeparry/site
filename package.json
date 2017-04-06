@@ -1,0 +1,23 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davideeparry/site.git"
+  },
+  "author": "david ee parry",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/davideeparry/site/issues"
+  },
+  "homepage": "https://github.com/davideeparry/site#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0"
+  }
+}
